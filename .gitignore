@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+mod/dist/
+companion/companion_config.json
+companion/stealth_start_freeze.*
+build/
+*.spec
